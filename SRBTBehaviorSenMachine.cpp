@@ -1,3 +1,8 @@
+/**
+ * @author Daniel Schreiner
+ * @email schreiner.daniel@gmail.com
+ */
+
 #include "SRBTBehaviorSenMachine.h"
 #include "srbtmachine.h"
 SRBTBehaviorSenMachine::SRBTBehaviorSenMachine()

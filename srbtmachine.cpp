@@ -1,3 +1,8 @@
+/**
+ * @author Daniel Schreiner
+ * @email schreiner.daniel@gmail.com
+ */
+
 #include "srbtmachine.h"
 /*
 SRBTMachine::SRBTMachine()

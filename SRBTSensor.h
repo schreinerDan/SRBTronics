@@ -1,3 +1,7 @@
+/**
+ * @author Daniel Schreiner
+ * @email schreiner.daniel@gmail.com
+ */
 #ifndef SRBTSENSOR_H
 #define SRBTSENSOR_H
 #include <Arduino.h>

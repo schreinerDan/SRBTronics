@@ -1,3 +1,8 @@
+/**
+ * @author Daniel Schreiner
+ * @email schreiner.daniel@gmail.com
+ */
+
 #ifndef SRBTDCMOTOR_H
 #define SRBTDCMOTOR_H
 #include <srbtmachine.h>

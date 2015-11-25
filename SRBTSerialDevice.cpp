@@ -1,3 +1,7 @@
+/**
+ * @author Daniel Schreiner
+ * @email schreiner.daniel@gmail.com
+ */
 #include "SRBTSerialDevice.h"
 #include <Arduino.h>
 #define STX 35
@@ -45,7 +49,7 @@ String SRBTSerialDevice::SerialRead(Stream* ser){
 
                     }
          }
-  delay(10);
+        delay(10);
          if((endCMD)&&(this->srCommand!=""))
             {
             return this->srCommand;
@@ -55,12 +59,6 @@ String SRBTSerialDevice::SerialRead(Stream* ser){
              return "";
             }
 
-//         return ((endCMD)&&(this->srCommand!="")) ? this->srCommand : "";
-
-        //if (this->srCommand!=""){
-          //      return this->srCommand;
-        //}
-    //return "";
 }
 String SRBTSerialDevice::BTRead(SoftwareSerial* ser){
     bool startCMD=false;
@@ -68,7 +66,7 @@ String SRBTSerialDevice::BTRead(SoftwareSerial* ser){
     bool endCMD=false;
 
     this->btCommand="";
-volatile char tk='d';
+    volatile char tk='d';
         while(ser->available()>0){
 
              tk= ser->read();

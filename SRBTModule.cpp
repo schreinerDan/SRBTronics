@@ -1,3 +1,7 @@
+/**
+ * @author Daniel Schreiner
+ * @email schreiner.daniel@gmail.com
+ */
 #include "SRBTModule.h"
 #include "srbtmachine.h"
 SRBTModule::SRBTModule()

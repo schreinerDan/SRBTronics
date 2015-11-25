@@ -1,3 +1,7 @@
+/**
+ * @author Daniel Schreiner
+ * @email schreiner.daniel@gmail.com
+ */
 #ifndef SRBTMACHINE_H
 #define SRBTMACHINE_H
 

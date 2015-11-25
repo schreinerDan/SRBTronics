@@ -1,3 +1,8 @@
+/**
+ * @author Daniel Schreiner
+ * @email schreiner.daniel@gmail.com
+ */
+
 #ifndef SRBTBEHAVIOR_H
 #define SRBTBEHAVIOR_H
 #include <Arduino.h>

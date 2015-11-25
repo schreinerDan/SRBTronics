@@ -1,3 +1,8 @@
+/**
+ * @author Daniel Schreiner
+ * @email schreiner.daniel@gmail.com
+ */
+
 #ifndef SRBTBEHAVIORSENSOR_H
 #define SRBTBEHAVIORSENSOR_H
 #include <SRBTBehavior.h>

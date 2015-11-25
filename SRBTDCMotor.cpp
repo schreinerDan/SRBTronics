@@ -1,3 +1,8 @@
+/**
+ * @author Daniel Schreiner
+ * @email schreiner.daniel@gmail.com
+ */
+
 #include "SRBTDCMotor.h"
 #include <Arduino.h>
 SRBTDCMotor::SRBTDCMotor()

@@ -1,3 +1,7 @@
+/**
+ * @author Daniel Schreiner
+ * @email schreiner.daniel@gmail.com
+ */
 #ifndef SRBTMODULE_H
 #define SRBTMODULE_H
 //#include "srb
