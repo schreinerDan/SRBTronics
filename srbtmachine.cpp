@@ -4,11 +4,7 @@
  */
 
 #include "srbtmachine.h"
-/*
-SRBTMachine::SRBTMachine()
-{
-    //ctor
-}*/
+
 
 SRBTMachine::~SRBTMachine()
 {
