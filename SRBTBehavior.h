@@ -8,6 +8,12 @@
 #include <Arduino.h>
 #include "SRBTMotor.h"
 //#include "srbtmachine.h"
+
+
+#define  OPEN "op-";
+#define  CLOSE "cl-";
+#define  START "start-";
+
 typedef enum {
     RUN=0, STOP, GOTOM, CLOSE, OPEN,RUNSENSOR,RUNPOS,SENSORCOUNT
 } ActionsType;
